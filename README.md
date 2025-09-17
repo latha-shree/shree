@@ -14,6 +14,6 @@
 
 ## 📂 Featured Projects
 - [👷 PPE Detection System](https://github.com/latha-shree/Contruction-Site-Safety-PPE-Detection)  
-- [🚗 Number Plate Detection]([https://github.com/your-repo](https://github.com/latha-shree/Number-Plate-Detection))  
+- [🚗 Number Plate Detection](https://github.com/latha-shree/Number-Plate-Detection)
 - [📧 SpamShield (Spam Detection)](https://github.com/latha-shree/SpamShield)  
 - [🧠 Suicide/Depression Detection](https://github.com/latha-shree/Suicide-Depression-Detection-System)  
